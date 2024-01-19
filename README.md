@@ -1,5 +1,5 @@
 # A (futile) exercise in attempt to never rewrite another dotfile
-GNU Stow is a godsend. No more git --bare nonsense. No more chasing errant symlinks.
+GNU Stow is a godsend. No more `git --bare` nonsense. No more chasing errant symlinks.
 
 A handy tutorial for using stow to manage dotfiles can be found [here](https://dr563105.github.io/blog/manage-dotfiles-with-gnu-stow/).
 
