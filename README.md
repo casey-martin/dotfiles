@@ -13,6 +13,8 @@ sudo apt-get install stow
 sudo brew install stow
 ```
 
+## 
+
 I wanted a simple and relatively portable Unix environment so I avoid fancy vim and tmux plugins.
 
 ## tmux cheatsheet
